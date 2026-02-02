@@ -2,6 +2,12 @@ Posts App
 
 A Flutter app that shows posts from JSONPlaceholder. You can filter by title, bookmark posts, and see who wrote each one.
 
+Screenshots
+
+![Posts Feed](screenshots/posts-feed.png)
+
+![Posts Screen](screenshots/posts-screen.png)
+
 How to run
 
 Make sure you have Flutter installed on your machine. Run flutter doctor to check.
